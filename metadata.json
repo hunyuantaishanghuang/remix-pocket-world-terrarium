@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pocket World Terrarium",
+  "description": "A cozy miniature world builder in Three.js featuring a faceted terrarium planet suspended inside a glass orb on a walnut stand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
